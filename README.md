@@ -4,7 +4,12 @@ This is a repository to just push TrickSaber to the latest version of Quest with
 **NOTE FOR BMBF USERS!!!**
 After installation TrickSaber will not show up in BMBF, this is because I can't figure out how to make a qmod file that works so just keep that in mind.
   
-**To Install:**
+**Batch Installation:**
+1. Connect your Quest to your computer.
+
+2. Run the file named "install.bat".
+
+**Manual Install:**
 1. Open SideQuest.
 	
 ![Step 1 Image](https://github.com/TrickTix/TrickSaber-Version-Spoof-1.28-/assets/95985704/b63078a0-a437-4b21-b353-8464a6c806f5)
